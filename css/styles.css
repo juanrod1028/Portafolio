@@ -1019,6 +1019,8 @@ bottom: 0;
 
 @media screen and (min-width: 1200px){
   
+
+  
   .section__border{
     padding-bottom: 6rem;
   }
@@ -1030,16 +1032,16 @@ bottom: 0;
   }
 
   .home__blob{
-    width: 334px;
-    height: 523px;
+    width: 302px;
+    height: 476px;
     border-radius: 1rem 1rem 0rem 0rem;
   }
   .home__perfil{
-    width: 330px;
-    height: 520px;
+    width: 300px;
+    height: 1000px;
   }
   .home__data{
-    row-gap: 2.5rem;
+    row-gap: 1rem;
   }
   .home__social{
     column-gap: 2rem;
@@ -1114,7 +1116,7 @@ bottom: 0;
     margin-bottom: 2rem;
   }
   .footer__container{
-    padding: 4rem 0 3rem;
+    padding: 0rem 0 3rem;
   }
   .footer__list{
     column-gap: 3rem;
